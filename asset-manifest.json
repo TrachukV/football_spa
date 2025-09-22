@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/football-spa/static/css/main.a5520ea7.css",
+    "main.js": "/football-spa/static/js/main.d492ef03.js",
+    "static/media/bg.jpeg": "/football-spa/static/media/bg.3e232f13831c0b7e5b1b.jpeg",
+    "static/media/date.png": "/football-spa/static/media/date.9ad0b9468b7c33e828c8.png",
+    "static/media/ball.svg": "/football-spa/static/media/ball.5ea47c63050254c855c749d593bc8863.svg",
+    "index.html": "/football-spa/index.html",
+    "main.a5520ea7.css.map": "/football-spa/static/css/main.a5520ea7.css.map",
+    "main.d492ef03.js.map": "/football-spa/static/js/main.d492ef03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5520ea7.css",
+    "static/js/main.d492ef03.js"
+  ]
+}
