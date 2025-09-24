@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useLocation, useParams } from 'react-router-dom';
-import { useFavorites } from '../hooks/useFavorites';
+import { useFavorites } from '../hooks/UseFavorites';
 
 
 const MatchScreen = () => {

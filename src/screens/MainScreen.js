@@ -10,7 +10,8 @@ const MainScreen = () => {
     const fetchMatches = async () => {
       try {
         const response = await fetch('https://www.scorebat.com/video-api/v3/');
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        if (!response.ok) 
+        throw new Error(`HTTP error! status: ${response.status}`);
         const data = await response.json();
 
         const allMatches = data.response || [];

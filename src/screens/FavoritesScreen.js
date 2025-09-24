@@ -1,5 +1,5 @@
 import React from 'react';
-import { useFavorites } from '../hooks/useFavorites';
+import { useFavorites } from '../hooks/UseFavorites';
 import FavoriteMatchCard from '../components/FavoriteMatchCard';
 
 export default function FavoritesScreen() {
